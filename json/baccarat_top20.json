@@ -1,155 +1,91 @@
 {
-    "day1": [
+    "finalDate": "2024-10-30",
+    "day": [
         {
-            "fullName": "1xx*******xxx",
-            "shortName": "1x***xx"
-        },
-        {
-            "fullName": "x2x*******xxx",
-            "shortName": ""
-        },
-        {
-            "fullName": "xx3*******xxx"
-        },
-        {
-            "fullName": "xxxPlayer04xxx",
-            "shortName": "xx***4x"
-        },
-        {
-            "fullName": "xxxPlayer05xxx"
-        },
-        {
-            "fullName": "xxxPlayer06xxx"
-        },
-        {
-            "fullName": "xxxPlayer07xxx"
-        },
-        {
-            "fullName": "xxxPlayer08xxx"
-        },
-        {
-            "fullName": "xxxPlayer09xxx"
-        },
-        {
-            "fullName": "xxxPlayer10xxx"
-        },
-        {
-            "fullName": "xxxPlayer11xxx",
-            "shortName": "ma***to"
-        },
-        {
-            "fullName": "xxxPlayer12xxx",
-            "shortName": "ma***to"
-        },
-        {
-            "fullName": "xxxPlayer13xxx",
-            "shortName": "ma***to"
-        },
-        {
-            "fullName": "xxxPlayer14xxx",
-            "shortName": "ma***to"
-        },
-        {
-            "fullName": "xxxPlayer15xxx",
-            "shortName": "ma**15o"
-        },
-        {
-            "fullName": "xxxPlayer16xxx",
-            "shortName": "ma***16"
-        },
-        {
-            "fullName": "xxxPlayer17xxx",
-            "shortName": "ma***to"
-        },
-        {
-            "fullName": "xxxPlayer18xxx",
-            "shortName": "ma***to"
-        },
-        {
-            "fullName": "xxxPlayer19xxx",
-            "shortName": "ma*19to"
-        },
-        {
-            "fullName": "xxxPlayer20xxx",
-            "shortName": "ma***to"
-        }
-    ],
-    "day2": [
-        {
-            "fullName": "1xx*******xxx",
-            "shortName": "1x***xx"
-        },
-        {
-            "fullName": "x2x*******xxx",
-            "shortName": ""
-        },
-        {
-            "fullName": "xx3*******xxx"
-        },
-        {
-            "fullName": "xxxPlayer04xxx",
-            "shortName": "xx***4x"
-        },
-        {
-            "fullName": "xxxPlayer05xxx"
-        },
-        {
-            "fullName": "xxxPlayer06xxx"
-        },
-        {
-            "fullName": "xxxPlayer07xxx"
-        },
-        {
-            "fullName": "xxxPlayer08xxx"
-        },
-        {
-            "fullName": "xxxPlayer09xxx"
-        },
-        {
-            "fullName": "xxxPlayer10xxx"
-        },
-        {
-            "fullName": "xxxPlayer11xxx",
-            "shortName": "ma***to"
-        }
-    ],
-    "day3": [
-        {
-            "fullName": "1xx*******xxx",
-            "shortName": "1x***xx"
-        },
-        {
-            "fullName": "x2x*******xxx",
-            "shortName": ""
-        },
-        {
-            "fullName": "xx3*******xxx"
-        },
-        {
-            "fullName": "xxxPlayer04xxx",
-            "shortName": "xx***4x"
-        },
-        {
-            "fullName": "xxxPlayer05xxx"
-        },
-        {
-            "fullName": "xxxPlayer06xxx"
-        },
-        {
-            "fullName": "xxxPlayer07xxx"
-        },
-        {
-            "fullName": "xxxPlayer08xxx"
-        },
-        {
-            "fullName": "xxxPlayer09xxx"
-        },
-        {
-            "fullName": "xxxPlayer10xxx"
-        },
-        {
-            "fullName": "xxxPlayer11xxx",
-            "shortName": "ma***to"
+            "day1": [
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW"
+            ],
+            "day2": [
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW"
+            ],
+            "day3": [
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW"
+            ],
+            "day5": [],
+            "final": [
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW",
+                "WWWWWWW"
+            ]
         }
     ]
 }
