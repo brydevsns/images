@@ -1,0 +1,31 @@
+{
+	"name": "CasinoPlus",
+	"short_name": "Casino Plus",
+	"description": "Join Casino Plus today! Login or register to enjoy PAGCOR online casino games, including Color Game and Jili Slots.",
+	"background_color": "#ffffff",
+	"theme_color": "#1976d2",
+	"orientation": "portrait",
+	"scope": "/",
+	"icons": [
+		{
+			"src": "favicon.ico",
+			"sizes": "64x64 32x32 24x24 16x16",
+			"type": "image/x-icon"
+		},
+		{
+			"src": "logo192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "logo512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"start_url": "https://www.client8.me/home/?utm_source=H5PWA&utm_medium=homescreen",
+	"display": "standalone",
+	"protocol_handlers": [
+		{ "protocol": "web+pwa", "url": "https://www.client8.me/home/?utm_source=H5PWA&utm_medium=homescreen" }
+	]
+}
